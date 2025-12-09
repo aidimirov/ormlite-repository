@@ -66,7 +66,7 @@ public interface UserRepository extends Repository<User, UUID> {
 }
 ```
 
-3. Реализовать репозиторий на основе класса DatabaseRepository<Entity
+3. Реализовать репозиторий на основе класса DatabaseRepository
 
 ```java
 package me.aidimirov;
