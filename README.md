@@ -1,8 +1,5 @@
 # ormlite‑repository
 
-[![Maven Central](https://img.shields.io/badge/maven-central-available-brightgreen)](#)  
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](#LICENSE)  
-
 **Обёртка над ORMLite — Репозитории как в Spring JPA для упрощённой работы с базой данных на Java.**
 
 ## 🚀 Зачем это
